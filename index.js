@@ -69,7 +69,7 @@ async function init() {
   try {
     const answers = await inquirer.prompt(questions);
     const readmeContent = generateMarkdown(answers);
-    fs.writeFileSync('README.md', readmeContent);
+    fs.writeFileSync('SAMPLE_README.md', readmeContent);
     console.log('README.md generated successfully!');
   } catch (error) {
     console.error('Error generating README:', error);

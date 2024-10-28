@@ -18,13 +18,13 @@ function generateMarkdown(answers) {
   ${answers.description}
   
   ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
-    - [License](#license)
-  ${answers.description}
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
+
   
   ## Installation
   ${answers.installation}
