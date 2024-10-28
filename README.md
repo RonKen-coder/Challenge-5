@@ -1,47 +1,18 @@
-<<<<<<< HEAD
-# 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## Description
-  
-=======
 # My Minimalist Portfolio
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
   This is a personal portfolio webpage designed to showcase my projects, skills, and experience. It follows a minimalist approach using neutral tones for a clean, professional aesthetic. 
->>>>>>> f48733667cbe788da33562119f63bae6e2f58ad7
   
   ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
-    - [License](#license)
-<<<<<<< HEAD
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
+
   
-  
-  ## Installation
-  
-  
-  ## Usage
-  
-  
-  ## Contributing
-  
-  
-  ## Tests
-  
-  
-  ## Questions
-  If you have any questions, please feel free to contact me via:
-- GitHub: [](https://github.com/ronkencoder)
-    - Email: [](mailto: )
-  
-  ## License
-  This project is licensed under the MIT License.
-=======
   This is a personal portfolio webpage designed to showcase my projects, skills, and experience. It follows a minimalist approach using neutral tones for a clean, professional aesthetic. 
   
   ## Installation
@@ -63,4 +34,3 @@
   
   ## License
   This project is licensed under the MIT License.
->>>>>>> f48733667cbe788da33562119f63bae6e2f58ad7
